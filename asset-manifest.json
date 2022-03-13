@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mcopper1226.github.io/csb-npgykk/static/css/main.c1a4858d.chunk.css",
+    "main.js": "https://mcopper1226.github.io/csb-npgykk/static/js/main.81f9b089.chunk.js",
+    "main.js.map": "https://mcopper1226.github.io/csb-npgykk/static/js/main.81f9b089.chunk.js.map",
+    "runtime-main.js": "https://mcopper1226.github.io/csb-npgykk/static/js/runtime-main.80cddaa6.js",
+    "runtime-main.js.map": "https://mcopper1226.github.io/csb-npgykk/static/js/runtime-main.80cddaa6.js.map",
+    "static/js/2.1059714d.chunk.js": "https://mcopper1226.github.io/csb-npgykk/static/js/2.1059714d.chunk.js",
+    "static/js/2.1059714d.chunk.js.map": "https://mcopper1226.github.io/csb-npgykk/static/js/2.1059714d.chunk.js.map",
+    "index.html": "https://mcopper1226.github.io/csb-npgykk/index.html",
+    "static/css/main.c1a4858d.chunk.css.map": "https://mcopper1226.github.io/csb-npgykk/static/css/main.c1a4858d.chunk.css.map",
+    "static/js/2.1059714d.chunk.js.LICENSE.txt": "https://mcopper1226.github.io/csb-npgykk/static/js/2.1059714d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80cddaa6.js",
+    "static/js/2.1059714d.chunk.js",
+    "static/css/main.c1a4858d.chunk.css",
+    "static/js/main.81f9b089.chunk.js"
+  ]
+}
